@@ -8,7 +8,7 @@
   - [Placeholders](#placeholders)
   - [Process](#process)
 - [Firmware Update](#firmware-update)
-- [NSF tips](#nsf-tips)
+- [NFS tips](#nfs-tips)
 - [References](#references)
 
 # Prerequisites
@@ -110,7 +110,7 @@ TODO Create a guide on how to update the firmware of the NAS.
 
 Official guide: https://support.zyxel.eu/hc/en-us/articles/16881179424786-Zyxel-Personal-Cloud-Storage-NAS-How-to-update-upgrade-your-Zyxel-NAS#h_01HP1YNN34ZSKHGVAA0180SCH2
 
-# NSF tips
+# NFS tips
 
 NFS, witch is mutch fater then the integrated SMB can be used via App Center app.
 
