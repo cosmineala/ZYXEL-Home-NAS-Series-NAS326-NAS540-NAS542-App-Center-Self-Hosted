@@ -2,6 +2,15 @@
 
 # Table of Contents
 
+- [Prerequisites](#prerequisites)
+- [App Center Self Hosted](#app-center-self-hosted)
+  - [Explanation](#explanation)
+  - [Placeholders](#placeholders)
+  - [Process](#process)
+- [Firmware Update](#firmware-update)
+- [NSF tips](#nsf-tips)
+- [References](#references)
+
 # Prerequisites
 
 1. Update firmware to latest version
