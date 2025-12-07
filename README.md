@@ -62,18 +62,18 @@ example:
 NAS540/admin/zy-pkgs/web_prefix
 ```
 
-<img src="./res/img/App Center Spoofer Config.webp" alt="Front photo" width="1000" height="auto">
-
+<img src="./res/img/App Center Spoofer Config.png" alt="Front photo" width="1000" height="auto">
 
 3. Create Shared Folder to mimic the App Center file structure.
 
 Create a shared folder named `NAS_MODEL`.
+
 example:
 ```plaintext
 NAS540
 ```
 
-![NAS540 Shared Folder](./res/img/AppCenter_mimic_acces.png)
+![NAS540 Shared Folder](./res/img/AppCenter_mimic_create.png)
 
 Make folder readable by guest users.
 
