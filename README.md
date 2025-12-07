@@ -15,12 +15,12 @@
 
 1. Update firmware to latest version
  - offical firmware download site: https://www.zyxel.com/global/en/support/end-of-life
- - Internet archive (firmware and App Center Apps): TODO
+ - Internet archive (firmware and App Center Apps): https://archive.org/details/zyxel-home-nas-series-nas-326-nas-540-nas-542-apps-firmware
 
  
 2. App Center Apps
  - offical App Center Apps: https://community.zyxel.com/en/discussion/29667/important-announcement-end-of-ftp-service-support-for-home-nas-series
- - Internet archive (firmware and App Center Apps): TODO
+ - Internet archive (firmware and App Center Apps): https://archive.org/details/zyxel-home-nas-series-nas-326-nas-540-nas-542-apps-firmware
 
 3. Atleast 1 volume needs to be created before the App Center can be used.
 
