@@ -21,9 +21,9 @@
 
 To prolong the support the App Center ftp server is replicated to a self hosted service on that same NAS. A configuration file that makes NAS to use its own ftp server is created. A filestructure that mimics the App Center Apps is created and exposed via the ftp server. 
 
-## Adnotation
+## Placeholders
 
-`NAS_NAME` is the name of the NAS as shown in the NAS web interface.
+`NAS_MODEL` is the model name of your NAS device.
  - enum values: NAS326, NAS540, NAS542
 
 ## Process
@@ -46,7 +46,7 @@ ftp://192.168.1.100
 This file should be placed using the NAS web file manager at path:
 (path includes the file itself)
 ```plaintext
-<NAS_NAME>/admin/zy-pkgs/web_prefix
+<NAS_MODEL>/admin/zy-pkgs/web_prefix
 ```
 example:
 ```plaintext
@@ -58,7 +58,7 @@ NAS540/admin/zy-pkgs/web_prefix
 
 3. Create Shared Folder to mimic the App Center file structure.
 
-Create a shared folder named `NAS_NAME`.
+Create a shared folder named `NAS_MODEL`.
 example:
 ```plaintext
 NAS540
@@ -76,7 +76,7 @@ The apps should be dowloaded folowing the [Prerequisites](#prerequisites) sectio
 
 Upload the apps to the folder using the naming structire 
 ```plaintext
-<NAS_NAME>/zypkg/5.21/<app files>
+<NAS_MODEL>/zypkg/5.21/<app files>
 ```
 example:
 ```plaintext
